@@ -59,9 +59,9 @@ class SosActivity : AppCompatActivity() {
                 try {
 
                     val smsManager: SmsManager = SmsManager.getDefault()
-//                    smsManager.sendTextMessage(binding.ephone1.text.toString(), null, message, null, null)
-//                    smsManager.sendTextMessage(binding.ephone2.text.toString(), null, message, null, null)
-//                    makePhoneCall()
+                    smsManager.sendTextMessage(binding.ephone1.text.toString(), null, message, null, null)
+                    smsManager.sendTextMessage(binding.ephone2.text.toString(), null, message, null, null)
+                    makePhoneCall()
                     Toast.makeText(applicationContext, "Message Sent", Toast.LENGTH_LONG).show()
 
                 } catch (e: Exception) {
