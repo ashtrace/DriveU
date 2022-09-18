@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\harsh\\.gradle\\daemon\\7.3.3\\com.world4tech.driveu.app-mergeDebugResources-46:\\layout\\activity_newnews.xml",
+        "source": "C:\\Users\\harsh\\.gradle\\daemon\\7.3.3\\com.world4tech.driveu.app-main-49:\\layout\\activity_newnews.xml"
+    },
+    {
+        "merged": "C:\\Users\\harsh\\.gradle\\daemon\\7.3.3\\com.world4tech.driveu.app-mergeDebugResources-46:\\layout\\activity_detail.xml",
+        "source": "C:\\Users\\harsh\\.gradle\\daemon\\7.3.3\\com.world4tech.driveu.app-main-49:\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\harsh\\.gradle\\daemon\\7.3.3\\com.world4tech.driveu.app-mergeDebugResources-46:\\layout\\activity_userdata.xml",
+        "source": "C:\\Users\\harsh\\.gradle\\daemon\\7.3.3\\com.world4tech.driveu.app-main-49:\\layout\\activity_userdata.xml"
+    },
+    {
+        "merged": "C:\\Users\\harsh\\.gradle\\daemon\\7.3.3\\com.world4tech.driveu.app-mergeDebugResources-46:\\layout\\recent_layout.xml",
+        "source": "C:\\Users\\harsh\\.gradle\\daemon\\7.3.3\\com.world4tech.driveu.app-main-49:\\layout\\recent_layout.xml"
+    },
+    {
+        "merged": "com.world4tech.driveu.app-mergeDebugResources-46:/layout/activity_newnews.xml",
+        "source": "com.world4tech.driveu.app-main-49:/layout/activity_newnews.xml"
+    },
+    {
+        "merged": "C:\\Users\\harsh\\.gradle\\daemon\\7.3.3\\com.world4tech.driveu.app-mergeDebugResources-46:\\layout\\activity_help.xml",
+        "source": "C:\\Users\\harsh\\.gradle\\daemon\\7.3.3\\com.world4tech.driveu.app-main-49:\\layout\\activity_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\harsh\\.gradle\\daemon\\7.3.3\\com.world4tech.driveu.app-mergeDebugResources-46:\\layout\\activity_maps.xml",
+        "source": "C:\\Users\\harsh\\.gradle\\daemon\\7.3.3\\com.world4tech.driveu.app-main-49:\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\harsh\\.gradle\\daemon\\7.3.3\\com.world4tech.driveu.app-mergeDebugResources-46:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\harsh\\.gradle\\daemon\\7.3.3\\com.world4tech.driveu.app-main-49:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\harsh\\.gradle\\daemon\\7.3.3\\com.world4tech.driveu.app-mergeDebugResources-46:\\layout\\news_blueprint.xml",
+        "source": "C:\\Users\\harsh\\.gradle\\daemon\\7.3.3\\com.world4tech.driveu.app-main-49:\\layout\\news_blueprint.xml"
+    },
+    {
+        "merged": "C:\\Users\\harsh\\.gradle\\daemon\\7.3.3\\com.world4tech.driveu.app-mergeDebugResources-46:\\layout\\activity_sos.xml",
+        "source": "C:\\Users\\harsh\\.gradle\\daemon\\7.3.3\\com.world4tech.driveu.app-main-49:\\layout\\activity_sos.xml"
+    },
+    {
+        "merged": "C:\\Users\\harsh\\.gradle\\daemon\\7.3.3\\com.world4tech.driveu.app-mergeDebugResources-46:\\layout\\activity_destination.xml",
+        "source": "C:\\Users\\harsh\\.gradle\\daemon\\7.3.3\\com.world4tech.driveu.app-main-49:\\layout\\activity_destination.xml"
+    },
+    {
+        "merged": "C:\\Users\\harsh\\.gradle\\daemon\\7.3.3\\com.world4tech.driveu.app-mergeDebugResources-46:\\layout\\custom_info_window.xml",
+        "source": "C:\\Users\\harsh\\.gradle\\daemon\\7.3.3\\com.world4tech.driveu.app-main-49:\\layout\\custom_info_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\harsh\\.gradle\\daemon\\7.3.3\\com.world4tech.driveu.app-mergeDebugResources-46:\\layout\\activity_news.xml",
+        "source": "C:\\Users\\harsh\\.gradle\\daemon\\7.3.3\\com.world4tech.driveu.app-main-49:\\layout\\activity_news.xml"
+    },
+    {
+        "merged": "C:\\Users\\harsh\\.gradle\\daemon\\7.3.3\\com.world4tech.driveu.app-mergeDebugResources-46:\\layout\\activity_profile.xml",
+        "source": "C:\\Users\\harsh\\.gradle\\daemon\\7.3.3\\com.world4tech.driveu.app-main-49:\\layout\\activity_profile.xml"
+    }
+]
